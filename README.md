@@ -1,2 +1,2 @@
 # tindog
-https://notdatkunal.github.io/tindog/
+[link](https://notdatkunal.github.io/tindog/)
